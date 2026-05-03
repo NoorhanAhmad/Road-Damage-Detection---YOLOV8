@@ -24,7 +24,7 @@ An automated road infrastructure monitoring system that detects potholes and var
 ##  Project Structure
 - `PythonApplication1.py`: The main Flask server.
 - `index.html`: The web frontend (located in `templates/` folder).
-- `v2_best/`: Folder containing the trained YOLOv8 weights (`best.pt`).
+- `v2_best.pt`: File containing the trained YOLOv8 weights.
 - `requirements.txt`: List of necessary Python libraries.
 
 ##  Installation & Setup
