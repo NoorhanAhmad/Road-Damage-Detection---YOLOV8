@@ -30,15 +30,16 @@ An automated road infrastructure monitoring system that detects potholes and var
 ##  Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone [https://github.com/NoorhanAhmad/Road-Damage-Detection-YOLOv8.git](https://github.com/NoorhanAhmad/Road-Damage-Detection-YOLOv8.git)
    cd Road-Damage-Detection-YOLOv8
-
+   ```
+   
 2. **Install dependencies**
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. **Run the application:**
-python PythonApplication1.py
+```python main.py```
 
 4. **Access the dashboard:**
 Open http://127.0.0.1:5001 in your web browser.
