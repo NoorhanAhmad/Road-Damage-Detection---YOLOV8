@@ -31,7 +31,7 @@ An automated road infrastructure monitoring system that detects potholes and var
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Road-Damage-Detection-YOLOv8.git](https://github.com/YOUR_USERNAME/Road-Damage-Detection-YOLOv8.git)
+   git clone [https://github.com/NoorhanAhmad/Road-Damage-Detection-YOLOv8.git](https://github.com/YOUR_USERNAME/Road-Damage-Detection-YOLOv8.git)
    cd Road-Damage-Detection-YOLOv8
 
 2. **Install dependencies**
