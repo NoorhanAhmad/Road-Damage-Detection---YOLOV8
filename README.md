@@ -42,7 +42,7 @@ An automated road infrastructure monitoring system that detects potholes and var
 ```python main.py```
 
 4. **Access the dashboard:**
-Open http://127.0.0.1:5001 in your web browser.
+Open index.html in your web browser.
 
 Prepared By:
 Manal Muneer, Syeda Farheen Masroor, Fatima Tahir, and Noorhan Ahmad
